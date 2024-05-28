@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20profile!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20profile!&fontSize=50)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -49,7 +49,6 @@
     <img
       src="https://img.shields.io/badge/sungwoo012477@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-<br>
   <a href="https://mygrowthring.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=tistory&logoColor=orange" />&nbsp
 </div>
