@@ -1,6 +1,21 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20my%20profile!&fontSize=50)
 
+### Machine Learning Engineer
+- Machine Learning Engineer in Education industry
+
+<br>
+
+### Interest
+- LLM for Recsys
+- MLOPs
+- HCI(Human-Computer Interaction)
+- Learning Science
+<br>
+<br>
+  
+  
+
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
